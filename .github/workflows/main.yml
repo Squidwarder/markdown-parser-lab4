@@ -33,3 +33,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           make test
+          echo Test finished
